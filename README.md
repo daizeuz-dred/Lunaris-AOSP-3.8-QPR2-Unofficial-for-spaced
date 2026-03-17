@@ -51,5 +51,7 @@
 * **Maintenance:** Renamed Lineage overlays and removed unused/duplicate configurations.
 * **Bug Fix:** Resolved permission issues for `opluserserve1`.
 
+# 🎧 Added Sony Dolby
+
 
 ## HUGES THANKS TO @HELLINFIX FOR TREES AND HELPING 🫡
